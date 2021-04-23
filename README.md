@@ -8,7 +8,7 @@
 ### <div align="center">We're Team Netherald, a Minecraft Plugin Developer</div>  
   
 
-- ⚡ Fun fact: All Developer use Java or Kotlin(excluding Project_TL).  
+- ⚡ Fun fact: All Developer use Java or Kotlin.  
   
 
 <br/>  
